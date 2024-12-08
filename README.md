@@ -11,7 +11,7 @@ Key components of Mask R-CNN:
 3.ROIAlign: Precisely extracts features for each candidate region.
 4.Classification, Bounding Box Regression, and Mask Prediction: Performs object detection and instance segmentation.
 
-#Prerequisites
+# Prerequisites
 Python Libraries:
 
 1.PyTorch: For model implementation and training.
