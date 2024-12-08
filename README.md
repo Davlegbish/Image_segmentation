@@ -14,8 +14,10 @@ Key components of Mask R-CNN:
 # Prerequisites
 Python Libraries:
 
-1.PyTorch: For model implementation and training.
-2.Torchvision: Provides pre-trained maskrcnn_resnet50_fpn.
+1.PyTorch: For model implementation and training.  
+
+2.Torchvision: Provides pre-trained maskrcnn_resnet50_fpn. 
+
 3.OpenCV: For image processing and visualization.
 4.Matplotlib: For plotting results.
 5.NumPy: For numerical operations.
