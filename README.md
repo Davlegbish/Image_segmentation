@@ -32,3 +32,20 @@ Python Libraries:
 7.PIL: it provides a convenient way to handle image processing tasks, such as opening, displaying, and saving images.
 
 
+# Before Segmentation
+
+![Screenshot (67)](https://github.com/user-attachments/assets/c2ad161c-9457-4374-9eba-e3a1f7c55af3)
+
+
+# After Segmentation
+
+![Screenshot (68)](https://github.com/user-attachments/assets/4d4dba80-d1f0-45e3-8a60-550ae4d7617c)
+
+
+# Results
+
+![Screenshot (69)](https://github.com/user-attachments/assets/5e6e92af-e67c-4daf-ba84-fd3d837489aa)
+
+
+
+
