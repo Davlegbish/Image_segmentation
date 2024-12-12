@@ -6,6 +6,7 @@ Image segmentation is a critical task in computer vision that involves partition
 Mask R-CNN is an extension of Faster R-CNN that includes a branch for predicting segmentation masks on each Region of Interest (RoI). This model is widely used for object detection and instance segmentation tasks.
 
 Key components of Mask R-CNN:
+
 1.Backbone (Feature Extractor): ResNet-50 with Feature Pyramid Network (FPN) is used to extract features from images.
 
 2.Region Proposal Network (RPN): Proposes candidate object regions.
